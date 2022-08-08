@@ -19,7 +19,7 @@ The main method is in `Worker.java`. It requires a couple of environment variabl
 
 #### Connect to Camunda Platform 8 SaaS Cluster
 
-1. Follow the [Getting Started Guid](https://docs.camunda.io/docs/guides/getting-started/) to create an account, a
+1. Follow the [Getting Started Guide](https://docs.camunda.io/docs/guides/getting-started/) to create an account, a
    cluster and client credentials
 2. Use the client credentials to fill the following environment variables:
     * `ZEEBE_ADDRESS`: Address where your cluster can be reached.
